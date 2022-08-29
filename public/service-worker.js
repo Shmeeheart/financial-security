@@ -5,9 +5,9 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
   '/',
   './manifest.json',
-  ''
+  './api/transaction',
   './index.html',
-  './public/css/styles.css',
+  './css/styles.css',
   './js/idb.js',
   './js/index.js',
   './icons/icon-72x72.png',
