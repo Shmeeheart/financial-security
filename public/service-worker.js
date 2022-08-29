@@ -1,4 +1,4 @@
-const APP_PREFIX = 'FinancialSecurity-';
+const APP_PREFIX = 'financial-security-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 
