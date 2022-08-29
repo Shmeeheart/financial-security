@@ -41,8 +41,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Budget Tracker",
-  "short_name": "Financial Security",
+  "name": "Financial Security",
+  "short_name": "Fin Sec",
   "theme_color": "#ffffff",
   "background_color": "#01579b",
   "start_url": "../index.html",
